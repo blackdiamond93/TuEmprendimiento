@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tu Emprendimiento</string>
+    <string name="Saludo">¿Como podremos ayudarte hoy?</string>
+    <string name="title_activity_emprendimiento">EmprendimientoActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_detalles">DetallesActivity</string>
+</resources>

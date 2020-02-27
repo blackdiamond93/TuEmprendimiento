@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="NoActionBar" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
